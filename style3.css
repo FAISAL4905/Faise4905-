@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.signup-login-btn h4 {
+    display: none;
+}
+
+.signup-login-btn button {
+    display: none;
+}
+
+/* main */
+.categary-boxes {
+    width: 75%;
+}
+
+.browse-home-option button {
+    right: 180px;
+}
+
+.adding-to-cart {
+    padding-right: 0px;
+    padding-left: 46px;
+}
+
+.input-services-to-add {
+    width: 24%;
+}
+
+.input-services-to-add input {
+    padding-left: 29px;
+    margin-left: 2px;
+}
+
+.btn-to-add {
+    position: absolute;
+    margin-left: 166px;
+}
+.dividing-border{
+    display: none;
+}
+
+/* footer */
+
+.get-started-btn {
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 181px;
+    height: 56px;
+    flex-shrink: 0;
+    position: absolute;
+    left: auto;
+    top: auto;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    right: 32px;
+}

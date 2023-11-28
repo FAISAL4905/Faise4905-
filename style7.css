@@ -1,0 +1,390 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* main */
+.home-browse {
+    height: 973px;
+}
+
+.browse-home-option button {
+    right: 79px;
+    bottom: auto;
+}
+.categary-boxes {
+    align-items: center;
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    height: 226px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.search-bar-along-filters {
+    padding-right: 22px;
+}
+.home-info h2 {
+    text-align: center;
+    padding-left: 0px;
+}
+.home-info p {
+    padding-left: 0;
+    font-size: 24px;
+    text-align: center;
+}
+.residental-development-design {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 0px;
+    margin-top: -250px;
+}
+
+.written-details-design h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.written-details-design p {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 86px;
+}
+
+.img-for-design {
+    margin-top: -498px;
+}
+
+.img-for-design img {
+    width: 368px;
+}
+
+.dream-home-design {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 842px;
+    margin-top: 94px;
+}
+
+.verification-details {
+    display: flex;
+    border: 1px solid transparent;
+    background: #ffffff;
+    border-radius: 5px;
+    position: absolute;
+    width: 268px;
+    height: 108px;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: -2px;
+}
+
+.mask2-img {
+    margin-top: 0px;
+    margin-left: -24px;
+    margin-right: auto;
+}
+
+.awards-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid #ffffff;
+    background: #ffffff;
+    border-radius: 5px;
+    width: 266px;
+    height: 108px;
+    position: absolute;
+    margin-top: 477px;
+    margin-left: -24px;
+}
+
+.figure-for-residesntal-design {
+    width: 100%;
+    height: 1495px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 0px;
+    margin-top: -135px;
+}
+
+.dream-home-design {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 842px;
+    padding-top: 0px;
+}
+
+.written-experience-info {
+    padding-top: 0px;
+}
+
+.make-your-dream-home {
+    text-align: center;
+}
+
+.make-your-dream-home h2 {
+    font-size: 37px;
+    display: contents;
+}
+.info-about-awards {
+    padding-left: 26px;
+    padding-bottom: 310px;
+}
+.new-home {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 13px;
+}
+
+.needs-of-home {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 13px;
+}
+
+.home-explore-more-btn button {
+    width: 188px;
+    height: 56px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #FFF;
+    background: linear-gradient(180deg, #FA8451 0%, #FA5951 100%);
+    margin-top: 43px;
+    margin-left: 19px;
+}
+
+.heading-of-property {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 87%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+}
+.more-info-of-property {
+    display: flex;
+    /* justify-content: end; */
+    align-items: center;
+    width: 100%;
+}
+.text-for-property {
+    text-align: center;
+}
+
+.apartment {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.student-apartment {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.house {
+    margin-left: auto;
+    margin-right: auto;
+}
+.green-house{
+    margin-left: 1px;
+}
+.cities-written-info button {
+    width: 70%;
+    height: 55px;
+    color: #FFF;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    background: linear-gradient(180deg, #FA8451 0%, #FA5951 100%);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.cities-written-info h2 {
+    text-align: center;
+}
+.cities-written-info p {
+    text-align: center;
+}
+.list-of-questions {
+    margin-left: 9px;
+    color: #1B1D21;
+    font-family: sans-serif;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+/* {
+    font-weight: 600;
+    color: #212529;
+} */
+.button-inline-width {
+    border-radius: 0;
+    font-size: 17px;
+    font-weight:bold;
+    color: #1B1D21;
+  }
+  .collapsed{
+    border-radius: 0;
+    font-size: 17px;
+    font-weight: 600;
+  }
+.dif-btw-rent-sell-buy h2 {
+    display: flex;
+    /* color: #1B1D21; */
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    line-height: normal;
+    margin-left: 10px;
+    padding-bottom: 21px;
+    text-align: center;
+}
+.dif-btw-rent-sell-buy p {
+    display: flex;
+    margin-left: 10px;
+    color: #8D8E90;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    padding-bottom: 28px;
+    text-align: center;
+}
+
+.list-of-questions ul li {
+    padding-bottom: 40px;
+}
+.list-of-questions ul li h2 {
+    margin-left: 6px;
+    /* color: #1B1D21; */
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    line-height: normal;
+    text-align: center;
+}
+
+/* footer */
+.details {
+    margin-bottom: 71px;
+    margin-top: -71px;
+    margin-left: -12px;
+}
+.details h2 {
+    background: transparent;
+    color: #FFF;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0.2px;
+    text-align: center;
+}
+.input-box {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 355px;
+    height: 72px;
+    flex-shrink: 0;
+    padding-left: 37px;
+    font-size: 17px;
+}
+.email-box {
+    position: relative;
+    display: inline-block;
+    width: 77%;
+}
+.email-box input {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    height: 72px;
+    padding-left: 9px;
+    font-size: 14px;
+}
+.email-box button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px 15px;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 134px;
+    height: 56px;
+    margin-top: 8px;
+    margin-right: 11px;
+}
+.divider-line {
+    width: 92%;
+    height: 1px;
+    background: #EAEEF3;
+    /* margin-top: -332px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    height: 1600px;
+}
+
+.company-services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-intro {
+    padding-right: 68px;
+}
+
+.products-info a {
+    padding-top: 14px;
+}
+
+.products-info {
+    padding-right: 68px;
+}
+
+.company-info a {
+    padding-top: 20px;
+}
+
+.company-info {
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 198px;
+}
+
+.team-info {
+    padding-top: 40px;
+    padding-right: 68px;
+}

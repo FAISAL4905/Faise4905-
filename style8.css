@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* main */
+.home-browse {
+    height: 973px;
+}
+
+.categary-boxes {
+    width: 75%;
+}
+
+.browse-home-option button {
+    right: 78px;
+    bottom: auto;
+}
+
+.input-services-to-add {
+    width: 73%;
+}
+
+.search-bar-along-filters {
+    padding-right: 5px;
+}
+.search-bar-along-filters .filters-img {
+    position: absolute;
+    padding-right: 318px;
+}
+.search-bar-along-filters .filters-img {
+    position: absolute;
+    padding-right: 318px;
+}
+.search-bar-along-filters input {
+    width: 196px;
+}
+
+.written-details-design h2 {
+    font-size: 25px;
+    padding-left: 5px;
+}
+
+.written-details-design p {
+    padding-left: 5px;
+    padding-top: 11px;
+    padding-bottom: 24px;
+}
+
+.img-for-design {
+    margin-top: -550px;
+}
+
+.img-for-design img {
+    width: 316px;
+}
+
+.heading-of-property {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 93%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+}
+
+/* footer */
+
+.details {
+    margin-bottom: 71px;
+    margin-top: -71px;
+    margin-left: -12px;
+}
+
+.details h2 {
+    font-size: 27px;
+}
+.email-box {
+    position: relative;
+    display: inline-block;
+    width: 87%;
+}

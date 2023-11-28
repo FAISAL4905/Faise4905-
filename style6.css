@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+/* .accordion.accordion-flush{
+    width: 95%;
+    margin-left: auto;
+    opacity: 1;
+    margin-right: auto;
+} */
+.drop-down-icon {
+    margin-right: 12px;
+    margin-left: auto;
+}
+
+.details {
+    margin-bottom: 71px;
+    margin-top: -71px;
+    margin-left: -40px;
+}
+
+.input-box {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 390px;
+    height: 72px;
+    flex-shrink: 0;
+    padding-left: 37px;
+    font-size: 17px;
+}
+
+.get-started-btn {
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 165px;
+    height: 56px;
+    flex-shrink: 0;
+    position: absolute;
+    left: auto;
+    top: 405px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    right: 53px;
+}

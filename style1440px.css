@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.browse-home-option button {
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 175px;
+    height: 50px;
+    flex-shrink: 0;
+    position:absolute;
+    left: auto;
+    top: auto;
+    border: 1px solid transparent;
+    border-radius: 9px;
+    right: 15px;
+    margin-top: 16px;
+    color: #fff;
+    font-family: sans-serif;
+}
+.heading-of-property {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 89%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.get-started-btn {
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 181px;
+    height: 56px;
+    flex-shrink: 0;
+    position: absolute;
+    left: auto;
+    top: auto;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    right: 155px;
+    margin-top: 10px;
+}

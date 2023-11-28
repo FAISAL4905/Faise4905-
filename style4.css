@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* main */
+.categary-boxes {
+    width: 91%;
+    margin-left: 40px;
+}
+
+.location-option img {
+    margin-left: 5px;
+}
+
+.time-option img {
+    margin-left: 5px;
+}
+
+.browse-home-option button {
+    right: 10px;
+}
+
+.adding-to-cart {
+    padding-right: 0px;
+    padding-left: 99px;
+}
+
+.input-services-to-add {
+    width: 31%;
+}
+
+.input-services-to-add input {
+    padding-left: 12px;
+    margin-left: 2px;
+}
+
+.btn-to-add {
+    position: absolute;
+    margin-left: 153px;
+}
+
+.search-bar {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.frequently-asked-questions {
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    padding-top: 22px;
+}
+.more-info-of-property {
+    display: flex;
+    /* justify-content: end; */
+    align-items: center;
+    width: 100%;
+}
+.heading-of-property {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+}
+.house{
+    margin-left: 18px;
+}
+
+.heading-for-asked-questions {
+    display: flex;
+    justify-content: center;
+    color: #1B1D21;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0.2px;
+    padding-bottom: 28px;
+}
+.icon-base-changes{
+    width: 89%;
+    margin-left: auto;
+    opacity: 1;
+    margin-right: auto;
+    padding-bottom: 100px;
+  }
+/* .frequently-asked-questions{
+    width: 100%;
+} */
+/* .accodion-header{
+    width: 100%;
+} */
+/* footer */
+.footer {
+    height: 1000px;
+}
+
+.footer-intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.details {
+    margin-bottom: 71px;
+    margin-top: -71px;
+    margin-left: -150px;
+}
+
+.input-box {
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    width: 471px;
+    height: 72px;
+    flex-shrink: 0;
+    padding-left: 37px;
+    font-size: 17px;
+}
+
+.email-box {
+    position: relative;
+    display: inline-block;
+    width: 65%;
+}
+.divider-line {
+    width: 70%;
+    height: 1px;
+    background: #EAEEF3;
+    /* margin-top: 111px; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-info h2 {
+    padding-left: 45px;
+    font-size: 48px;
+}
+
+.home-info p {
+    padding-left: 45px;
+    font-size: 17px;
+}

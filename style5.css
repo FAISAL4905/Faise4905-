@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.drop-down-icon {
+    margin-left: auto;
+    margin-right: 12px;
+}
+
+/* main */
+.home-browse {
+    height: 843px;
+}
+
+.categary-boxes {
+    align-items: center;
+    display: flex;
+    width: 67%;
+    flex-direction: column;
+    height: 226px;
+    margin-top: 25px;
+}
+
+.your-location {
+    margin-left: -40px;
+}
+
+.your-time {
+    margin-top: -66px;
+    margin-right: -117px;
+}
+
+.browse-home-option button {
+    right: 310px;
+    top: auto;
+    margin-top: -68px;
+}
+
+.adding-to-cart {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.input-services-to-add {
+    width: 60%;
+}
+
+.input-services-to-add input {
+    padding-left: 51px;
+    margin-left: 2px;
+}
+
+.popular-cities {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+/* footer */
+
+.footer {
+    height: 1300px;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.get-started-btn {
+    background: linear-gradient(#FA8451, #FA5951);
+    width: 181px;
+    height: 56px;
+    flex-shrink: 0;
+    position: absolute;
+    left: auto;
+    top: auto;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    right: 46px;
+}
+
+.company-services {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-intro {
+    padding-right: 150px;
+}
+
+.products-info a {
+    padding-top: 14px;
+}
+
+.products-info {
+    padding-right: 210px;
+}
+
+.company-info a {
+    padding-top: 14px;
+}
+
+.company-info {
+    margin-top: -517px;
+    margin-left: 187px;
+}
+
+.team-info {
+    padding-top: 40px;
+    padding-right: 210px;
+}
